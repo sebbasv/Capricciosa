@@ -4,7 +4,7 @@ Página web de Capricciosa, un emprendimiento de postres venezolanos.
 
 ## Sitio en línea
 
-🔗 https://sebastiancr1324-sketch.github.io/Capricciosa/
+🔗 https://sebbasv.github.io/Capricciosa/
 
 ## Estructura
 
